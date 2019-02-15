@@ -1,0 +1,10 @@
+https://connect.deezer.com/oauth/auth.php?perms=basic_access%2Cemail
+&
+redirect_uri=https%3A%2F%2Foauth.io%2Fauth%3Fstate%3DdaJOouqbkNaEmMPkVHiRVqX2wkg
+&
+app_id=322142&response_type=code
+&
+dispatch_path=auth
+
+
+token= frc807ec97ba1e85ee71aab33dac3374
